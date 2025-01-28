@@ -1,8 +1,4 @@
 
-<!---
-UsmanDevelop/UsmanDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi there! 👋 I am Usman Malik</h1>
 
 <p align="center">
@@ -22,9 +18,9 @@ A MERN stack developer with a strong command over both backend and frontend deve
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="https://twitter.com/ofsyedbloodline">
+<!--   <a href="">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/muhammad-usman-492745259/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
