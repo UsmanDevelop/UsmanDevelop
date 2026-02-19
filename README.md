@@ -21,7 +21,7 @@ A Full Stack Software Engineer with strong command over both backend and fronten
 <!--   <a href="">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a> -->
-  <a href="https://www.linkedin.com/in/muhammad-usman-492745259/">
+  <a href="https://www.linkedin.com/in/usman-malik-492745259/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/just.usmaaaan/">
