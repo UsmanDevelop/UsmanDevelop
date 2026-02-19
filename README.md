@@ -2,12 +2,12 @@
 <h1 align="center">Hi there! 👋 I am Usman Malik</h1>
 
 <p align="center">
-A MERN stack developer with a strong command over both backend and frontend development. With expertise in MongoDB, Express.js, React.js, and Node.js, I specialize in building scalable, high-performance web applications. My backend skills ensure secure, efficient server-side logic, while my frontend expertise allows me to create dynamic, responsive user interfaces. Passionate about problem-solving and optimizing performance, I am always eager to take on new challenges and build innovative digital solutions. 
+A Full Stack Software Engineer with strong command over both backend and frontend development. With expertise in Java, Spring Boot, React.js, and SQL/NoSQL databases, I specialize in building scalable, secure, and high-performance web applications. My backend skills ensure robust API design, clean architecture, and efficient server-side logic, while my frontend expertise allows me to create dynamic, responsive, and user-friendly interfaces. Passionate about problem-solving and performance optimization, I am always eager to take on new challenges and deliver innovative, enterprise-grade digital solutions. 
 </p>
 
 ## Skills
 
-- MERN Stack Development
+- Full Stack Developer (Java & React)
 - Python Programming (Web Scraping & Automation)
 - Backend Architecture and API development
 - Tailwind CSS, Bootstrap, and Material UI for UI/UX
