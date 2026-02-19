@@ -24,7 +24,7 @@ A Full Stack Software Engineer with strong command over both backend and fronten
   <a href="https://www.linkedin.com/in/muhammad-usman-492745259/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/__usmannmalik/">
+  <a href="https://www.instagram.com/just.usmaaaan/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:usman@volmatica.com">
